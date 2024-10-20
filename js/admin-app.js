@@ -1,4 +1,4 @@
-const API_URL = 'http://138.204.143.189/api/appointments'; // Substitua pela URL correta se necessário
+const API_URL = 'https://138.204.143.189/api/appointments'; // Substitua pela URL correta se necessário
 
 // Função para fazer login
 async function loginUser(event) {
