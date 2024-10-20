@@ -2,7 +2,7 @@
 //////////////////////////////FILÉ COM HORARIOS AJUSTADOS E INDISPONIBILIDADE DA HORA USADA//////////////////
 
     
-const API_URL = 'http://138.204.143.189/api'; '*'; 'https://138.204.143.189/api'; 'https://barbeariagenese.ddns.info/'; // Substitua pela URL pública
+const API_URL = 'http://3b0602628622.sn.mynetname.net:8182//api'; '*'; 'http://3b0602628622.sn.mynetname.net:8182//api'; 'https://barbeariagenese.ddns.info/'; // Substitua pela URL pública
 
 // Função para verificar a URL atual
 function isDashboardPage() {
